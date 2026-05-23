@@ -21,12 +21,12 @@ A production-grade machine learning pipeline that predicts user language prefere
 
 ## 💻 How to Run
 
-### 1. Install Dependencies
+### 1.How to Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Run the Full Pipeline
+### 2. Run the Full Pipeline 
 You can run the entire pipeline end-to-end with a single script. It will generate the data, train the model, and spin up both the FastAPI backend and Streamlit frontend.
 
 ```bash
