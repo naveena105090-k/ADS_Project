@@ -21,7 +21,7 @@ A production-grade machine learning pipeline that predicts user language prefere
 
 ## 💻 How to Run
 
-### 1. Install Dependencies
+### 1. how to Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
